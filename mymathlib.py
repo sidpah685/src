@@ -1,3 +1,5 @@
+# This is a comment
+
 class NonIntegerException(Exception):
     
     pass
